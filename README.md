@@ -1,8 +1,6 @@
 <h1 align="center">Hello World!👋, I'm AKRAM "skyreex" FARIKH</h1>
 <h3 align="center">A passionate developer from Morroco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyreex" alt="skyreex" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_skyr33x_" target="blank"><img src="https://img.shields.io/twitter/follow/_skyr33x_?logo=twitter&style=for-the-badge" alt="_skyr33x_" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, Laravel**
