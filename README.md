@@ -9,8 +9,8 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **ReactJS, Laravel** - 📫 How to reach me
-**akramfarikh3@gmail.com**
+- 🌱 I’m currently learning **ReactJS, Laravel**
+- 📫 How to reach me **akramfarikh3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
