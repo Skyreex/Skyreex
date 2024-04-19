@@ -17,7 +17,7 @@
 
 ## ⚡ Tech Stack
 
-#### 🚀 Languages
+### 🚀 Languages
 
 ![Static Badge](https://img.shields.io/badge/C-212121?style=for-the-badge&logo=C&logoColor=white&labelColor=212121&color=white) 
 ![Static Badge](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=white&labelColor=212121&color=white)
@@ -27,7 +27,7 @@
 ![Static Badge](https://img.shields.io/badge/CSs-212121?style=for-the-badge&logo=css3&logoColor=white&labelColor=212121&color=white)
 <br>
  **Currently learning :** ![Static Badge](https://img.shields.io/badge/c++-212121?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=212121&color=white)
-#### 💻 Libraries & Framework
+### 💻 Libraries & Framework
 
 ![Static Badge](https://img.shields.io/badge/laravel-212121?style=for-the-badge&logo=laravel&logoColor=white&labelColor=212121&color=white)
 ![Static Badge](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react&logoColor=white&labelColor=212121&color=white)
