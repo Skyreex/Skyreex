@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hi 👋, I'm AKRAM "Skyreex" FARIKH 🙋‍♂️ I'm a Full Stack Developer.</div>
+### <div align="center">Hi 👋, I'm AKRAM "Skyreex" FARIKH I'm a Full Stack Developer 👨🏻‍💻.</div>
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
 
 <p align="center">
@@ -47,7 +47,7 @@
 ![Static Badge](https://img.shields.io/badge/mongodb-212121?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=212121&color=white)
 <br><br>
  **Currently learning :** ![Static Badge](https://img.shields.io/badge/postgresql-212121?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=212121&color=white)
-### 🧑🏻‍💻 Tools & Platform
+### 🛠️💻 Tools & Platform
 
 ![Static Badge](https://img.shields.io/badge/git-212121?style=for-the-badge&logo=git&logoColor=white&labelColor=212121&color=white)
 ![Static Badge](https://img.shields.io/badge/github-212121?style=for-the-badge&logo=github&logoColor=white&labelColor=212121&color=white)
