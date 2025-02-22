@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hi 👋, I'm AKRAM "Skyreex" FARIKH I'm a Full Stack Developer 👨🏻‍💻.</div>
+### <div align="center">Hi 👋, I'm AKRAM "Skyreex" FARIKH, I'm a software engineering student 👨🏻‍🎓👨🏻‍💻.</div>
 #### <div align="center">Find out more about me & feel free to connect with me here:</div>
 
 <p align="center">
@@ -16,9 +16,9 @@
 </p>
 
 <br>
-## 📈 Stats
+#### 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Skyreex&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skyreex&hide_border=true&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Skyreex&show_icons=true&hide_border=true&theme=radical" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skyreex&hide_border=true&theme=radical" />
 </p>
