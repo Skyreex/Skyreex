@@ -1,7 +1,8 @@
 
 
-### <div align="center">Hello world!👋, I'm AKRAM "Skyreex" FARIKH, a software engineering student 👨🏻‍🎓👨🏻‍💻 and a tech enthusiast</div>
-#### <div align="center">Find out more about me & feel free to connect with me here:</div>
+### <div align="center">Hello world!</div>
+### <div align="center">I'm AKRAM "Skyreex" FARIKH, a software engineering student and tech enthusiast.</div>
+**<div align="center">Find out more about me & feel free to connect with me here:</div>**
 
 <p align="center">
 	<a href="https://twitter.com/skyr33x">
@@ -15,8 +16,9 @@
 	</a>
 </p>
 
-### 📈 Stats
+### <p align="center">	📈 Stats </p>
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Skyreex&show_icons=true&hide_border=true&theme=radical" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skyreex&hide_border=true&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Skyreex&show_icons=true&hide_border=true&theme=radical" />
+	<br>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skyreex&hide_border=true&theme=radical" />
 </p>
